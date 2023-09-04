@@ -10,3 +10,6 @@ __MACOSX
 
 # python
 __pycache__
+
+# catboost  
+catboost_info
